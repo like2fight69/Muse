@@ -16,7 +16,7 @@
 //make hadjustment follow song length channel set position:DONE
 //maybe try converting app to cplus?:DONE
 //slider increments but crashes:FIXED
-//there is some slowdown on songs check bit rate
+
 
  GtkWidget *treeView;
  GtkWidget *window; 
