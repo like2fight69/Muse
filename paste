@@ -1,0 +1,10 @@
+shift+right mouse click
+install fmod
+
+copy .so to /usr/local/lib/
+copy .h to /usr/local/inc/
+
+add to makefile
+
+ex.o:
+	gcc -c -I/usr/local/include -L/usr/local/lib ex.c -lfmod
