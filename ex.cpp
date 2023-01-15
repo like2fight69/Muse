@@ -14,7 +14,7 @@
 //Get fmod working:DONE!
 //get song length:DONE
 //make hadjustment follow song length channel set position:DONE
-//maybe try converting app to cplus?:DONE
+
 //slider increments but crashes:FIXED
 
 
